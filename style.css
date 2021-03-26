@@ -36,7 +36,7 @@ body {
   width: 100%;
   top: 0;
   left: 0;
-  cursor: url("./img/american-football-player.png") 24 24, auto;
+  cursor: url("./american-football-player.png") 24 24, auto;
 }
 
 .game:hover .game__win {
